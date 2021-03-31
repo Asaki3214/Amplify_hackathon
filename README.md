@@ -8,4 +8,4 @@
  
 3. ファイル *IsingMusicComposer_Amplify.py* の、`client.token`のコメントアウトを外してアクセストークンを入力する
 
-4. *IsingMusicComposer_Amplify.py* を実行すると、"Music_01.wav"に結果の音源が入っている。
+4. *IsingMusicComposer_Amplify.py* を実行すると、"music_01.wav"に結果の音源が入っている。
